@@ -2,7 +2,7 @@
 const titleSwitch = [
     'Definizione di universo', 
     'Il mito della biga alata', 
-    'Come cucinare la barbabietola', 
+    'Cucinare una barbabietola', 
     'La simmetria'
 ];
 
